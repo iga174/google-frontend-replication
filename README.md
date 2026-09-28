@@ -1,4 +1,4 @@
-# Google Search Homepage Clone
+# Google Search Homepage Replication
 
 A front-end recreation of Google's homepage and search interfaces, built with HTML and CSS.
 
